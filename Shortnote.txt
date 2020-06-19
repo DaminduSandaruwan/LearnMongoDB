@@ -2,3 +2,5 @@ D:\LearnMongoDB>npm install mongoose
 
 to run file -
 D:\LearnMongoDB>node test/connection.js
+
+CLIENT(BROWSER)---> SERVER(NODE)  [MONGOOSE]----> MONGODB
